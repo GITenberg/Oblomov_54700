@@ -1,0 +1,34 @@
+_repo: Oblomov_54700
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hogarth, C. J.
+    alias: Hogarth, Charles James
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '835'
+    url: http://www.gutenberg.org/2009/agents/835
+creator:
+  author:
+    agent_name: Goncharov, Ivan Aleksandrovich
+    alias: Гончаров, Иван Александрович
+    birthdate: 1812
+    deathdate: 1891
+    gutenberg_agent_id: '2418'
+    url: http://www.gutenberg.org/2009/agents/2418
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Goncharov
+description: ''
+gutenberg_issued: '2017-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcc 'PG'
+- GITenberg
+title: Oblomov
+url: http://www.gutenberg.org/ebooks/54700
